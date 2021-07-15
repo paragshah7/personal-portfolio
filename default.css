@@ -290,6 +290,10 @@ h6 { font-size: 16px;}
 	text-align: center;
 }
 
+.social-links-header {
+	margin: 1rem;
+}
+
 #social_img{
 	width: 100%;
 }
